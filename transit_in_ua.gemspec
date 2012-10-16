@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = TransitInUa::VERSION
   gem.authors       = ["Leonid Shevtsov"]
   gem.email         = ["leonid@shevtsov.me"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{Ruby API for transit.in.ua}
+  #gem.summary       = %q{TODO: Write a gem summary}
+  #gem.homepage      = ""
 
   gem.add_runtime_dependency 'mechanize', '~>2'
 
